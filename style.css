@@ -1,0 +1,45 @@
+body {
+	background: url(image/bg-dark.jpg) no-repeat center fixed;
+	background-size: cover;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+h1	{
+	color: white;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+	font-family: 'Josefin Slab', serif;
+}
+
+h2	{
+	color: white;
+	font-size: 18px;
+	margin-top: 0;
+}
+
+hr {
+	width: 30%;
+	background-color: white;
+}
+
+.bio {
+	width: 500px;
+	color: white;
+	font-size: 14px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.me {
+	height: 150px;
+	width: 155px;
+	border-width: thick;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: silver;
+	margin-top: 40px;
+	box-shadow: 5px 5px 15px 5px #000000;
+}
